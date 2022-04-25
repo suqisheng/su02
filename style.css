@@ -8,7 +8,8 @@
 .banner{
 	height:380px;
 	width:100%;
-	background-color:rgb(207,70,70);}
+	background-color:rgb(207,70,70);
+	overflow:hidden;}
 .main{
 	height:210px;
 	width:1100px;
@@ -20,7 +21,6 @@
 .header .hdtext{
 	height:50px;
 	width:1100px;
-	border:#CF0 1px solid;
 	margin:0px auto;}
 ul{
 	list-style:none;}
@@ -83,4 +83,5 @@ body{
 	margin-top:10px;}
 .footer .text{
 	text-align:center;
-	color:#999;}
+	color:#999;
+	}
